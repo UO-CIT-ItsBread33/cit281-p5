@@ -18,5 +18,7 @@
 
 - Unfortunately, I was unable to get the game to fully run, but here is what it's supposed to output when fully complete:
 
+![output](outputP5.png)
+
 
 ### [**Back to home page**](https://uo-cit-itsbread33.github.io/ItsBread33.github.io/)
